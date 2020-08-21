@@ -1,4 +1,11 @@
 .navbar {
     background-color: #212529;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 10em;
 }
+
+
+/* .navbar-brand {
+    font-size: 8em;
+    text-align: center;
+} */

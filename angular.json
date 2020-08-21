@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "acejoe"
+    }
+  },
+  "defaultProject": "acejoe",
+  "cli": {
+    "analytics": "14dba619-ab76-4d8a-8ded-d022a7ef2e55"
+  }
 }
